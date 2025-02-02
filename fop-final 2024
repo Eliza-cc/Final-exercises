@@ -1,0 +1,3 @@
+mkdir myfolder
+touch myfolder/readme.md
+echo "Hello GitHub" > myfolder/readme.md
